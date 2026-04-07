@@ -1,0 +1,6 @@
+{"timestamp": "2026-04-06 20:34:58", "dpid": "0x2", "port": 3, "port_name": "s2-eth3", "reason": "MODIFIED", "prev_state": "UP", "new_state": "UP"}
+{"timestamp": "2026-04-06 20:34:58", "dpid": "0x2", "port": 3, "port_name": "s2-eth3", "reason": "MODIFIED", "prev_state": "UP", "new_state": "DOWN"}
+{"timestamp": "2026-04-06 20:34:58", "dpid": "0x1", "port": 3, "port_name": "s1-eth3", "reason": "MODIFIED", "prev_state": "UP", "new_state": "UP"}
+{"timestamp": "2026-04-06 20:34:58", "dpid": "0x1", "port": 3, "port_name": "s1-eth3", "reason": "MODIFIED", "prev_state": "UP", "new_state": "DOWN"}
+{"timestamp": "2026-04-06 20:51:37", "dpid": "0x1", "port": 3, "port_name": "s1-eth3", "reason": "MODIFIED", "prev_state": "DOWN", "new_state": "UP"}
+{"timestamp": "2026-04-06 20:51:37", "dpid": "0x2", "port": 3, "port_name": "s2-eth3", "reason": "MODIFIED", "prev_state": "DOWN", "new_state": "UP"}
